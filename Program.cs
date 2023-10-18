@@ -5,6 +5,7 @@ var codigoBarras = new List<int> {123,456};
 var quantidadeProduto = new List<int> {5,8};
 var precoProduto = new List<double> {2.80,5.50};
 var dataVencimento = new List<string>{"18/07/2023","10/12/2024"};
+var theDate = new DateOnly(5776, 2, 8);
 
 for(int i = 1; i <= 3; i++)
 {
